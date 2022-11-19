@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WF</id>
+    <version>1.0.0</version>
+    <authors>WF</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Dapper" version="2.0.123" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.Sqlite" version="6.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.Sqlite.Core" version="6.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="6.0.2" exclude="Build,Analyzers" />
+        <dependency id="SQLite" version="3.13.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.runtimeconfig.json" target="lib\net6.0-windows7.0\WF.runtimeconfig.json" />
+    <file src="D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.dll" target="lib\net6.0-windows7.0\WF.dll" />
+  </files>
+</package>

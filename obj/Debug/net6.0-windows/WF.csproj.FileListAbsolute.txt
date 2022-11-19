@@ -1,0 +1,128 @@
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.exe
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.deps.json
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.runtimeconfig.json
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\ref\WF.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.pdb
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.csproj.AssemblyReference.cache
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.AssemblyInfoInputs.cache
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.AssemblyInfo.cs
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.dll
+D:\Training\C#\WF\obj\Debug\net6.0-windows\ref\WF.dll
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.pdb
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.genruntimeconfig.cache
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.HomePage.resources
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.Register.resources
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.csproj.GenerateResource.cache
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.MaslowTest.resources
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.Properties.Resources.resources
+D:\Training\C#\WF\bin\Debug\net6.0-windows\WF.dll.config
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Dapper.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Training\C#\WF\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.csproj.CopyComplete
+D:\Training\C#\WF\bin\Debug\net6.0-windows\Test.db
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.Teast.resources
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.PersonalityType.resources
+D:\Training\C#\WF\obj\Debug\net6.0-windows\WF.ListDisease.resources
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Test.db
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.exe
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.dll.config
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.deps.json
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.runtimeconfig.json
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\ref\WF.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\WF.pdb
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Dapper.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.csproj.AssemblyReference.cache
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.HomePage.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.ListDisease.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.MaslowTest.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.PersonalityType.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.Properties.Resources.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.Register.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.Teast.resources
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.csproj.GenerateResource.cache
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.AssemblyInfoInputs.cache
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.AssemblyInfo.cs
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.csproj.CopyComplete
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.dll
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\ref\WF.dll
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.pdb
+D:\Training\Backup\Designed Phase 2\WF\obj\Debug\net6.0-windows\WF.genruntimeconfig.cache
